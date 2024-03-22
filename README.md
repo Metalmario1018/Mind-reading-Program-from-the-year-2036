@@ -1,3 +1,3 @@
 https://processing.org/
 
-downlado processing to download the program from 2036
+downlado processing to run the program from 2036
